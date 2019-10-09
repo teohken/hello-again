@@ -1,2 +1,5 @@
 # hello-again
-try 2 time
+try 2nd time
+
+need more practice to learn
+and commit to memory
